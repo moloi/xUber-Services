@@ -13,8 +13,7 @@ To test replace the **GoogleMapsApiKey** to use your own Google Maps Api Key in 
 <img width="600" src="Screenshots/screenshot1.png" />
 <img width="600" src="Screenshots/screenshot2.png"/>
 <img width="600" src="Screenshots/screenshot3.png" />
-<img width="600" src="Screenshots/screenshot4.png" />
-<img width="600" src="Screenshots/screenshot5.png" "/>
+
 
 
 
